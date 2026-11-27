@@ -12,3 +12,4 @@ public class SaludController {
         return Map.of("estado", "OK", "servicio", "gateway");
     }
 }
+//*xd */
