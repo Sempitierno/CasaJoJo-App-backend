@@ -30,7 +30,7 @@ Proyecto académico — **DSY1105 · Desarrollo de Aplicaciones Móviles** (CITT
 | 2 | Preparar estructura base de la aplicación | Josafat |
 | 3 | Incorporar animaciones | Tomy |
 | 4 | Incorporar periféricos | Elías |
-| 5 | Implementar persistencia local con SQLite | Benja |
+| 5 | Implementar persistencia local con SQLite | Felipe |
 | 6 | Backend de microservicios (Spring Boot) | RESPONSABLE |
 | 7 | Integración de la app con los microservicios (Retrofit) | RESPONSABLE |
 | 8 | Recuperación de contraseña, perfil y 4 roles | RESPONSABLE |
